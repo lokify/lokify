@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi! I'm Lokendar Singh:
 🔭 I'm currently studying in Bangalore Institute of Technology<br>🌱 I'm currently learning Data Science and Machine Learning<br>💬 Ask me about Data Structure and Algorithm<br>📧How to reach me: lokendarsingh5983@gmail.com<br>
 
 
