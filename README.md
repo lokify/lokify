@@ -13,8 +13,6 @@
 
 - 🎓 I'm currently pursuing **Bachelor of Engineering in Information Technology**
 
-- 👨‍💻 All of my projects are available at [KartikLove31](https://github.com/KartiLove31)
-
 - 💬 Ask me about **HTML, CSS, JavaScript, and C++**
 
 - 📫 How to reach me **lokendarsingh5983@gmail.com**
