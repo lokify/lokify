@@ -1,19 +1,19 @@
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 
-<h1 align="center">Hi 👋, I'm Lokendar Singh </h1>
-<h3 align="center">Enthusiastic tech learner and coder, specializing in data science and software engineering.</h3>
+<h1 align="center">Hi 👋, I'm Lokendar Singh</h1>
+<h3 align="center">Backend Developer | Passionate about building scalable systems using modern technologies.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mangesh2704&label=Profile%20views&color=0e75b6&style=flat" alt="mangesh2704" /> </p>
 
-- 🔭 I'm currently studying in **Bangalore Institue of Technology**
+- 🔭 I'm currently working as a **Software Developer at Meril Life Sciences**, primarily focusing on **Backend Development using NestJS**.
 
-- 🌱 I'm currently learning **Node.js and ML**
+- 🌱 I'm currently learning **Microservices Architecture**, **Advanced API Design**, and **Cloud Deployment with Docker and AWS**.
 
-- 🎓 I'm currently pursuing **Bachelor of Engineering in Information Technology**
+- 🎓 Pursuing **Bachelor of Engineering in Information Science and Engineering** from **Bangalore Institute of Technology**.
 
-- 💬 Ask me about **HTML, CSS, JavaScript, and C++**
+- 💬 Ask me about **NestJS, Node.js, Prisma, PostgreSQL, TypeScript, Docker, and C++**
 
 - 📫 How to reach me **lokendarsingh5983@gmail.com**
 
@@ -24,12 +24,31 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
- 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
- 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
- 
+<p align="left">
+
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+  </a> 
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> 
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> 
+  </a>
+  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="prisma" width="40" height="40"/> 
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> 
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+  </a>
+
 </p>
